@@ -1,5 +1,5 @@
 - 🔭 I’m a 5th year BCS BBA student at the University of Waterloo & the University of Wilfrid Laurier.
 - 🧑🏻‍💻 Looking for a full time position.
-- 💼 I have over 12 months of industry experience working as a software / application developer & mobile engineer.
+- 💼 I have 12 months of industry experience working as a software / application developer & mobile engineer.
 - 🌐 Checkout my website: https://nrebello.vercel.app
 - 📫 How to reach me: nicholas.rebello@gmail.com
