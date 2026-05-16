@@ -1,5 +1,5 @@
-- 🔭 I’m a 5th year BCS BBA student at the University of Waterloo & the University of Wilfrid Laurier.
-- 🧑🏻‍💻 Looking for a full time position.
+- 🔭 I have graduated with a Bachelor of Computer Science + Bachelor of Business Administration degree from the University of Waterloo (UW) & the University of Wilfrid Laurier (WLU).
+- 🧑🏻‍💻 Looking for a full time position in full stack / data / analyst / consultancy / quant.
 - 💼 I have 12 months of industry experience working as a software / application developer & mobile engineer.
 - 🌐 Checkout my website: https://nrebello.vercel.app
 - 📫 How to reach me: nicholas.rebello@gmail.com
